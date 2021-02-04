@@ -1,3 +1,18 @@
+h1::selection,
+h2::selection,
+h3::selection,
+h4::selection,
+h5::selection,
+h6::selection,
+p::selection,
+a::selection,
+strong::selection,
+img::selection,
+label::selection{
+    background-color: #acacff;
+    color: #fff;
+}
+
 html{
     scroll-behavior: smooth;
 }
